@@ -1,4 +1,4 @@
-# Tom Mannas Portfolio
+# Tom Mannas' Portfolio
 
 ## Project 1: [EXCEL] Coffee Data Dashboard
 Please click 'view raw' to download the spreadsheet & enable editing to make the dashboard interactive!
