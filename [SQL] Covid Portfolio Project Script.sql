@@ -1,3 +1,10 @@
+/*
+Covid-19 Dataset Exploration & Insights
+
+Skills Used: Joins, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
+
 SELECT *
 FROM PortfolioProject..CovidDeaths
 WHERE continent is not null
