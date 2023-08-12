@@ -6,5 +6,9 @@ Used 'XLOOKUP' and 'INDEX MATCH' functions to gather data in one sheet. Using fi
 Put all this together in one sheet for the interactive dashboard that is easy to use and delivers insights at the user's discretion.
 
 
-## Project 2: [SQL] Covid-19 Data Exploration Using SQL
+## Project 2: [SQL] Cleaning a Nashville Housing Dataset Using SQL
+This is a complete SQL script used for cleaning a raw dataset through: Reformatting data, Seperating data, Adding columns, Removing Duplicates & unused columns, Populating data & more!
+
+
+## Project 3: [SQL] Covid-19 Data Exploration Using SQL
 This is a complete SQL script I used within a large Covid-19 dataset that contains information regarding location, date, total_cases, total_deaths,vaccinations & more. All queries used are included and the skills utilised are: Joins, Temp Tables, Windows Functions, Aggregate Functions, Creating Views and Converting Data Types
