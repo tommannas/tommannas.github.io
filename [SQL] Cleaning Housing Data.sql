@@ -1,3 +1,10 @@
+/*
+Cleaning of Nashville Housing Dataset
+
+Skills Used: Joins, CTE, Windows Functions, Aggregate Functions, Updating Tables, Converting Data Types
+
+*/
+
 SELECT *
 FROM PortfolioProject2..NashvilleHouse
 
